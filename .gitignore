@@ -6,3 +6,4 @@ node_modules/
 .venv/
 tmp/
 *.tmp
+.pytest_cache/
