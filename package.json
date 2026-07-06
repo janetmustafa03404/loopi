@@ -1,6 +1,6 @@
 {
   "name": "loopi",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A desktop automation platform \u2014 control browsers, system cursor/keyboard, run shell commands, and orchestrate workflows with AI agents and 80+ integrations. Runs locally.",
   "main": "src/index.ts",
   "scripts": {
